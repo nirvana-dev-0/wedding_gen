@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/bantuan/layout,_N_T_/bantuan/page,_N_T_/bantuan"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/bantuan/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/b72e34de8b88528a68976aed589f97d79a7134a117b4f8f5f1c1031a436302d3/$/bantuan",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/bantuan/page"
+    },
+    "isFallback": false
+  }
+}

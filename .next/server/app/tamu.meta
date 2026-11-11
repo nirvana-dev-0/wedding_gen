@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/tamu/layout,_N_T_/tamu/page,_N_T_/tamu"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/tamu/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/e51ca82c98e5f0851b57728ea39e9b471dc7aaf2000efc658ac14c8c7ebd4438/$/tamu",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/tamu/page"
+    },
+    "isFallback": false
+  }
+}

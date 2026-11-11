@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/buat/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1idj08yny4rz4._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_0n7ejf7a4rrm_.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0qj8-g8ff_jpv._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__02qtcu7ngdjtf._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0dket0g7ul-mx._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_0wpq8j32_ibz4._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_forbidden_0symwr9mbf-fh.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_unauthorized_0l_sp0xky89qu.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_global-error_0q-w892nagajq.js")
+R.c("server/chunks/ssr/_next-internal_server_app_buat_page_actions_13m38zk1-609r.js")
+R.m(24517)
+module.exports=R.m(24517).exports

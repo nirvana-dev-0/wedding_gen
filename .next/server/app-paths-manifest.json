@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/bantuan/page": "app/bantuan/page.js",
+  "/buat/page": "app/buat/page.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/page": "app/page.js",
+  "/sukses/page": "app/sukses/page.js",
+  "/tamu/page": "app/tamu/page.js",
+  "/templates/page": "app/templates/page.js",
+  "/u/[slug]/page": "app/u/[slug]/page.js",
+  "/undanganku/page": "app/undanganku/page.js"
+}

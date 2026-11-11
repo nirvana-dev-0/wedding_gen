@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/tamu/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0w9r0oem9rom3._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_1p2ifo5ka3-o4.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0qj8-g8ff_jpv._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__02qtcu7ngdjtf._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0dket0g7ul-mx._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_0wpq8j32_ibz4._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_forbidden_0symwr9mbf-fh.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_unauthorized_0l_sp0xky89qu.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_global-error_0q-w892nagajq.js")
+R.c("server/chunks/ssr/_next-internal_server_app_tamu_page_actions_0gd47tk8l0hk4.js")
+R.m(10370)
+module.exports=R.m(10370).exports

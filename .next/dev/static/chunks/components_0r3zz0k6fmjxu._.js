@@ -1,0 +1,32 @@
+(globalThis["TURBOPACK"] || (globalThis["TURBOPACK"] = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/components/PreloaderScene.tsx [app-client] (ecmascript, next/dynamic entry, async loader)", ((__turbopack_context__) => {
+
+__turbopack_context__.v((parentImport) => {
+    return Promise.all([
+  "static/chunks/node_modules_three_build_three_core_18d0oq6so9l-t.js",
+  "static/chunks/node_modules_three_build_three_module_03rsyo66totzs.js",
+  "static/chunks/node_modules_three_build_three_module_1_wgwg8fdd16a.js",
+  "static/chunks/node_modules_@react-three_fiber_dist_0ryu0spy-a-bm._.js",
+  "static/chunks/node_modules_1yyzza3k-yll5._.js",
+  "static/chunks/components_PreloaderScene_tsx_1njutxq19n203._.js"
+].map((chunk) => __turbopack_context__.l(chunk))).then(() => {
+        return parentImport("[project]/components/PreloaderScene.tsx [app-client] (ecmascript, next/dynamic entry)");
+    });
+});
+}),
+"[project]/components/TemplateScene.tsx [app-client] (ecmascript, next/dynamic entry, async loader)", ((__turbopack_context__) => {
+
+__turbopack_context__.v((parentImport) => {
+    return Promise.all([
+  "static/chunks/node_modules_three_build_three_core_18d0oq6so9l-t.js",
+  "static/chunks/node_modules_three_build_three_module_03rsyo66totzs.js",
+  "static/chunks/node_modules_three_build_three_module_1_wgwg8fdd16a.js",
+  "static/chunks/node_modules_@react-three_fiber_dist_0ryu0spy-a-bm._.js",
+  "static/chunks/node_modules_11o0rrv9n5wnk._.js",
+  "static/chunks/components_TemplateScene_tsx_0ayhh34y5mym2._.js"
+].map((chunk) => __turbopack_context__.l(chunk))).then(() => {
+        return parentImport("[project]/components/TemplateScene.tsx [app-client] (ecmascript, next/dynamic entry)");
+    });
+});
+}),
+]);

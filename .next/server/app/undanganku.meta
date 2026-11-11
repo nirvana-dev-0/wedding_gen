@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/undanganku/layout,_N_T_/undanganku/page,_N_T_/undanganku"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/undanganku/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/45b9fee8f47fcec45c749a4fbda20edd149c03970b08b9216bde8d41ab212b17/$/undanganku",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/undanganku/page"
+    },
+    "isFallback": false
+  }
+}
